@@ -1,0 +1,77 @@
+/* General Navbar Styling */
+.navbar {
+  background-color: #4CAF50; /* Green theme */
+  padding: 10px 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Logo and Title */
+.navbar-logo {
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+}
+
+.navbar-logo:hover {
+  color: #E8F5E9;
+}
+
+/* Navigation Links */
+.nav-links {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 10px;
+  transition: 0.3s;
+}
+
+.nav-links a:hover {
+  color: #D1C4E9;
+  text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.5);
+}
+
+/* Mobile Menu */
+.mobile-menu {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .nav-links {
+      display: none;
+  }
+
+  .mobile-menu {
+      display: block;
+      position: absolute;
+      top: 60px;
+      left: 0;
+      width: 100%;
+      background-color: #4CAF50;
+      text-align: center;
+      padding: 10px 0;
+  }
+
+  .mobile-menu a {
+      display: block;
+      padding: 10px;
+      color: white;
+  }
+}
+
+/* Avatar Dropdown */
+.user-avatar {
+  border: 2px solid white;
+  transition: 0.3s;
+}
+
+.user-avatar:hover {
+  transform: scale(1.1);
+  border-color: #D1C4E9;
+}

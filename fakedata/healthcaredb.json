@@ -1,0 +1,67 @@
+{
+	"service": [
+		{
+			"id": 1,
+			"class": "",
+			"treatment": "Psychotherapy",
+			"price": 15000,
+			"description": "Psychotherapy helps individuals understand their emotions, thoughts, and behaviors to deal with stress, trauma, or mental disorders. Our expert therapists offer a variety of therapies including CBT, DBT, and mindfulness-based interventions.",
+			"icon": "https://i.ibb.co/7Nbv3LP/therapy.png",
+			"service_img": "https://i.ibb.co/9sLqD1h/psychotherapy.jpg"
+		},
+		{
+			"id": 2,
+			"class": "animation",
+			"treatment": "Cognitive Behavioral Therapy (CBT)",
+			"price": 25000,
+			"description": "CBT focuses on changing negative thought patterns and behaviors. It's an effective treatment for anxiety, depression, and other mental health issues. Learn to identify and challenge unhelpful thoughts and behaviors.",
+			"icon": "https://i.ibb.co/4mGc5wd/cbt.png",
+			"service_img": "https://i.ibb.co/6RpXjf4/cbt-session.jpg"
+		},
+		{
+			"id": 3,
+			"class": "",
+			"treatment": "Stress Management",
+			"price": 3000,
+			"description": "Learn techniques to manage stress, improve emotional well-being, and develop coping mechanisms. Our stress management programs include relaxation exercises, mindfulness, and other strategies to reduce anxiety.",
+			"icon": "https://i.ibb.co/QDwRKLk/stress.png",
+			"service_img": "https://i.ibb.co/f6CZv9v/stress-management.jpg"
+		},
+		{
+			"id": 4,
+			"class": "",
+			"treatment": "Depression Counseling",
+			"price": 10000,
+			"description": "Depression counseling helps individuals cope with the feelings of sadness, loss of interest, and fatigue. Our professional counselors provide support and practical tools to help manage symptoms of depression.",
+			"icon": "https://i.ibb.co/wdRJZnQ/depression.png",
+			"service_img": "https://i.ibb.co/QvC2n5F/depression-counseling.jpg"
+		},
+		{
+			"id": 5,
+			"class": "animation",
+			"treatment": "Anxiety Therapy",
+			"price": 9000,
+			"description": "Anxiety therapy focuses on managing feelings of worry, fear, or panic. Through evidence-based approaches like CBT, exposure therapy, and relaxation techniques, we help individuals regain control over their anxiety.",
+			"icon": "https://i.ibb.co/TML6pFT/anxiety.png",
+			"service_img": "https://i.ibb.co/kGLqzhV/anxiety-therapy.jpg"
+		},
+		{
+			"id": 6,
+			"class": "",
+			"treatment": "Family Therapy",
+			"price": 1800,
+			"description": "Family therapy helps families communicate more effectively, resolve conflicts, and improve relationships. It's an effective way to address issues like addiction, mental illness, or emotional struggles within the family unit.",
+			"icon": "https://i.ibb.co/zhbpyCV/family-therapy.png",
+			"service_img": "https://i.ibb.co/Y3ZbttK/family-therapy.jpg"
+		},
+		{
+			"id": 7,
+			"class": "",
+			"treatment": "Mindfulness Meditation",
+			"price": 0,
+			"description": "Mindfulness meditation is an effective technique for reducing stress, improving mental clarity, and promoting emotional well-being. Our programs focus on cultivating present-moment awareness and self-compassion.",
+			"icon": "https://i.ibb.co/Z6g1Qp8/mindfulness.png",
+			"service_img": "https://i.ibb.co/j5jfh7R/mindfulness.jpg"
+		}
+	]
+}

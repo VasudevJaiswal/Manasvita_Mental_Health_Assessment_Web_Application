@@ -1,0 +1,27 @@
+.text-style {
+   text-decoration: none;
+   color: #212121; /* Adjusted for contrast */
+}
+
+.text-style:hover {
+   text-decoration: none;
+   color: #8E24AA; /* Vibrant hover effect matching footer highlights */
+}
+
+.avatar {
+   border: 2px solid #8E24AA; /* Adds accent border around icons */
+}
+
+.sticky-container {
+   background-color: #F5F5F5; /* Light gray for footer background */
+   color: #212121; /* Default text color for footer */
+}
+
+.text-style-fullscrn {
+   background-color: #8E24AA; /* Footer primary color */
+   color: white; /* Text color inside full-screen elements */
+}
+
+.text-style-fullscrn:hover {
+   background-color: #6A1B9A; /* Slightly darker for hover effect */
+}

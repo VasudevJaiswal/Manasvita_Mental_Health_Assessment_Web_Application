@@ -1,0 +1,67 @@
+{
+	"services": [
+		{
+			"id": 1,
+			"class": "",
+			"treatment": "Mental Health Assessment",
+			"price": 15000,
+			"description": "Our mental health assessment services are designed to help evaluate emotional and psychological well-being. Whether you're dealing with anxiety, depression, or stress, our professionals are here to guide you towards better mental health.",
+			"icon": "https://img.icons8.com/ios-filled/50/000000/mental-health.png",
+			"service_img": "https://i.ibb.co/rG0TSwX/01.jpg"
+		},
+		{
+			"id": 2,
+			"class": "animation",
+			"treatment": "Therapy and Counseling",
+			"price": 25000,
+			"description": "Therapy and counseling sessions offer a safe space for individuals to work through mental health challenges. Our therapists provide support for issues such as trauma, grief, and life transitions, helping you achieve emotional healing.",
+			"icon": "https://img.icons8.com/ios-filled/50/000000/therapy.png",
+			"service_img": "https://i.ibb.co/Bn2GG0N/06.jpg"
+		},
+		{
+			"id": 3,
+			"class": "",
+			"treatment": "Stress Management",
+			"price": 3000,
+			"description": "Stress management techniques help individuals cope with everyday pressures. Our services offer tools and strategies, such as mindfulness and relaxation exercises, to manage stress and improve your quality of life.",
+			"icon": "https://img.icons8.com/ios-filled/50/000000/stress.png",
+			"service_img": "https://i.ibb.co/CK7Y2DD/03.jpg"
+		},
+		{
+			"id": 4,
+			"class": "",
+			"treatment": "Cognitive Behavioral Therapy (CBT)",
+			"price": 100,
+			"description": "CBT is an evidence-based therapy that helps individuals identify and change negative thought patterns. It is particularly effective for treating anxiety, depression, and other mood disorders, offering practical skills to improve mental well-being.",
+			"icon": "https://img.icons8.com/ios-filled/50/000000/brainstorming.png",
+			"service_img": "https://i.ibb.co/3FS3B8h/08.jpg"
+		},
+		{
+			"id": 5,
+			"class": "animation",
+			"treatment": "Mindfulness Meditation",
+			"price": 9000,
+			"description": "Mindfulness meditation is a practice that helps individuals stay present and focused. This service can help reduce symptoms of anxiety and depression, and foster emotional resilience by teaching individuals to be aware of their thoughts and feelings.",
+			"icon": "https://img.icons8.com/ios-filled/50/000000/meditation.png",
+			"service_img": "https://i.ibb.co/q9SM3XT/10.jpg"
+		},
+		{
+			"id": 6,
+			"class": "",
+			"treatment": "Group Therapy",
+			"price": 1800,
+			"description": "Group therapy provides a supportive environment where individuals with similar mental health challenges can share experiences, receive peer support, and learn new coping strategies together.",
+			"icon": "https://img.icons8.com/ios-filled/50/000000/teamwork.png",
+			"service_img": "https://i.ibb.co/dDsVnnZ/09.jpg"
+		},
+		{
+			"id": 7,
+			"class": "",
+			"treatment": "Psychiatric Evaluation",
+			"price": 0,
+			"description": "A psychiatric evaluation involves a comprehensive assessment by a licensed psychiatrist to diagnose mental health conditions. This evaluation provides recommendations for treatment and further mental health support.",
+			"icon": "https://img.icons8.com/ios-filled/50/000000/psychiatry.png",
+			"service_img": "https://i.ibb.co/02FMz1F/02.jpg"
+		}
+	]
+}

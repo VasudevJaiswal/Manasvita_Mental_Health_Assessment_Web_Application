@@ -1,0 +1,52 @@
+.banner-container {
+    position: relative;
+    text-align: center;
+    color: white;
+    min-height: 74vh;  /* Full viewport height */
+    max-height:85vh;
+    overflow: hidden;
+}
+
+.banner-container img {
+    width: 100%;
+    height: 80vh; /* Make sure it covers the full screen */
+    object-fit: cover; /* Ensures the image scales properly without distortion */
+}
+
+.banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(14, 14, 14, 0.8);
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    width: 80%; /* Adjusted width */
+    max-width: 600px; /* Prevents it from being too wide on large screens */
+}
+
+.banner-heading {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.banner-description {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+    .banner-text {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .banner-heading {
+        font-size: 2rem;
+    }
+
+    .banner-description {
+        font-size: 1rem;
+    }
+}
